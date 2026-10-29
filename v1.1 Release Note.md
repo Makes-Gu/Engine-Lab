@@ -2,7 +2,7 @@
 
 A native macOS engine simulator for exploring how geometry, fuel, ignition timing, cooling, and gearing affect a four-stroke engine. Built with SwiftUI and a Swift thermodynamics model, with interactive graphs and an animated piston and cylinder bank.
 
-![Engine Lab's native Mac dashboard showing engine controls, digital performance readings, cylinder pressure, and piston animation](docs/images/engine-lab.jpg)
+![Engine Lab's native Mac dashboard showing engine controls, digital performance readings, cylinder pressure, and piston animation](engine-lab.jpg)
 
 Engine Lab is an **educational model** for comparing trends. Its pressure, power, torque, and efficiency estimates are not calibrated predictions for a particular engine.
 
